@@ -30,7 +30,8 @@ io.on('connection', socket => {
     });*/
 });
 
-mongoose.connect('mongodb+srv://dbroot:rewq@54321@cluster0-0xqfy.mongodb.net/aulas?retryWrites=true&w=majority', {
+/* AJUSTAR BANCO DE DADOS */
+mongoose.connect('mongodb+srv://user:password@server.net/banco?retryWrites=true&w=majority', {
     useNewUrlParser: true
 });
 
