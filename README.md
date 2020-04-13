@@ -1,6 +1,6 @@
 # Tindev 🔥
 
-Um "tinder" para desenvolvedores, produzido na semana omnistack 8, utilizando Node.js, ReactJS e React Native.
+Um "tinder" para desenvolvedores, produzido na semana  OmniStack 8 da Rocketseat 🚀, utilizando Node.js, ReactJS e React Native.
 
 Para acessar o código completo: [GitHub](https://github.com/iaematt/tindev)
 
@@ -8,7 +8,7 @@ Para acessar o código completo: [GitHub](https://github.com/iaematt/tindev)
 
 ### API ⚙
 
-Clone ou faça o downlod desse repositório, acesse a pasta: backend e faça a instalação:
+Clone ou faça o downlod [desse repositório](https://github.com/iaematt/tindev), acesse a pasta: backend e faça a instalação:
 
 ```
 # Clone o repositório
@@ -43,7 +43,7 @@ $ yarn start
 
 ### Mobile 📱
 
-Para o mobile é necessário ter o Expo instalado na maquina:
+Para o mobile é necessário ter a cli do react native instalado:
 
 ```
 # Acesse a pasta do mobile
@@ -52,19 +52,18 @@ $ cd mobile/
 # Instale as dependencias
 $ yarn
 
-# Instale o aplicativo no emulador/celular
-$ yarn run android
-$ yarn run ios
-
-# Execute o Expo
+# Execute o projeto
 $ yarn start
+
+# Instale o aplicativo no emulador ou celular
+$ react-native run-android
+$ react-native run-ios
 ```
+
 
 ## Meta
 
-[Matheus Bastos](http://devbsb.com.br) – [instagram/@iaematt\_](https://instagram.com/iaematt_) – [Contato via e-mail](mailto:matheusbastos@outlook.com)
+[Portfólio](http://devbsb.com.br) – [E-Mail](mailto:matheusbastos@outlook.com) – [Instagram](https://instagram.com/iaematt_)  – [GitHub](https://github.com/iaematt)
 
+*Distribuído sob a licença MIT.*
 
-Distribuído sob a licença MIT.
-
-[github/iaematt](https://github.com/iaematt)
