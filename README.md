@@ -12,7 +12,7 @@ Clone ou faça o downlod [desse repositório](https://github.com/iaematt/tindev)
 
 ```
 # Clone o repositório
-$ git clone https://github.com/iaematt/semanaomnistack11
+$ git clone https://github.com/iaematt/tindev
 
 # Acesse a pasta do backend
 $ cd backend/
